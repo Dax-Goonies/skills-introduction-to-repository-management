@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Dax-Goonies
+/src/backend/database.py      @Dax-Goonies
+/src/backend/routers/auth.py  @Dax-Goonies
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Dax-Goonies
